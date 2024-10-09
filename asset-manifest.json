@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Do-Task-with-React/static/css/main.7fc27d47.css",
+    "main.js": "/Do-Task-with-React/static/js/main.19652175.js",
+    "index.html": "/Do-Task-with-React/index.html",
+    "static/media/close-red.svg": "/Do-Task-with-React/static/media/close-red.9ad1fffaa01fa2f5c501b0ef7e5443f9.svg",
+    "static/media/green-check.svg": "/Do-Task-with-React/static/media/green-check.36536fa15de0e410e64f90ab76ea6599.svg",
+    "main.7fc27d47.css.map": "/Do-Task-with-React/static/css/main.7fc27d47.css.map",
+    "main.19652175.js.map": "/Do-Task-with-React/static/js/main.19652175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc27d47.css",
+    "static/js/main.19652175.js"
+  ]
+}
