@@ -10,9 +10,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages eject build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://javichanampa.github.io/Do-Task App",
+  "homepage": "http://javichanampa.github.io/Do-Task-with-React",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
