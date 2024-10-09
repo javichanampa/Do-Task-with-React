@@ -1,4 +1,4 @@
-ToDo - Machine 📝
+ToDo - Machine 📝 https://javichanampa.github.io/Do-Task-with-React/
 React Node.js GitHub Pages
 
 ToDo - Machine is a dynamic application built with React that offers an intuitive interface for managing daily tasks. This tool allows users to add, delete, and mark tasks as completed, providing an effective solution to organize their daily lives.
@@ -23,7 +23,6 @@ Deploy to GitHub Pages
 React -> A JavaScript library for building user interfaces
 Node.js -> Runtime environment for JavaScript
 npm -> Package Manager
-
 
 👥 Contact
 Interested in talking about technology or projects? Connect with me!
